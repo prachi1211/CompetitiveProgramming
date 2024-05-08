@@ -1,2 +1,2 @@
 # LeetCode
-Hey!! Peeps, in this repository I will commit the solutions of leetcode challenges....
+Chanllenge to slove the Leetcode Questions everyday.
